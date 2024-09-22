@@ -2,7 +2,7 @@
 This is a repository that keeps a record of my journey taking Harvard University's popular CS50x online course taught by David J. Malan.
 
 ## Week 0 - Scratch
-For the problem set 0 project I created a game using scratch called ["Space Invasion"](https://github.com/safwanishere/CS50/blob/main/Week%200/Space%20Invasion.sb3)
+For the problem set 0 project I created a game using scratch called ["Space Invasion"](https://github.com/safwanishere/CS50/blob/main/Week%200)
 These are the instructions for the game:
 
 > Space Invasion!
