@@ -68,3 +68,16 @@ A key, for example, might be the string NQXPOMAFTRHLZGECYJIUWSKDVB. This 26-char
 A message like HELLO, then, would be encrypted as FOLLE, replacing each of the letters according to the mapping determined by the key.
 
 In a file called substitution.c in a folder called substitution, create a program that enables you to encrypt messages using a substitution cipher. At the time the user executes the program, they should decide, by providing a command-line argument, on what the key should be in the secret message they’ll provide at runtime.
+
+## Week 3 - Algorithms
+This week focussed on searching and sorting algorithms and how they worked under the hood. It also introduced the concept of Asymptotic Notation like Big O, Omega and Theta to measure the time cmplexity of an algorithm. The last topic covered was Recursion which is when a function calls itself in its definition. The problem set had three questions:
+
+### Sort
+Three sorting algorithms needed to be classified as Merge, Bubble or Selection based on their running times on various .txt files as inputs.
+
+### Plurality
+One of the simplest way to hold an election is via a method commonly known as the “plurality vote” (also known as “first-past-the-post” or “winner take all”). In the plurality vote, every voter gets to vote for one candidate. At the end of the election, whichever candidate has the greatest number of votes is declared the winner of the election.
+For this problem, I had  to implement a program that runs a plurality election, per given conditions.
+
+### Runoff
+There’s another kind of voting system known as a ranked-choice voting system. In a ranked-choice system, voters can vote for more than one candidate. Instead of just voting for their top choice, they can rank the candidates in order of preference. It arguably has the benefit of being an election system where the winner of the election more accurately represents the preferences of the voters. In a file called runoff.c in a folder called runoff, create a program to simulate a runoff election.
